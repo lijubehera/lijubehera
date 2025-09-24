@@ -22,11 +22,11 @@ Strengthening problem-solving and analytical skills
 
 Frontend: HTML, CSS, JavaScript, React
 
-Backend: Node.js, Express.js, PHP
+Backend: Node.js
 
-Databases: SQL, MongoDB
+Databases: SQL
 
-Programming Languages: Java, Python, C++
+Programming Languages:  Python
 
 Other: Git, GitHub, APIs
 
@@ -34,9 +34,7 @@ Other: Git, GitHub, APIs
 
 Here are some of my works and learning projects:
 
-🔹 E-Commerce Platform – A shopping web app with cart & payment features
-
-🔹 Student Management System – CRUD app for handling student records
+🔹 Canteen Management System – CRUD app for handling student records
 
 🔹 Portfolio Website – Personal portfolio showcasing projects & achievements
 
@@ -44,7 +42,7 @@ Here are some of my works and learning projects:
 
 I am actively solving problems on LeetCode to sharpen my DSA skills.
 
-📜 LeetCode Profile
+📜 LeetCode Profile : https://leetcode.com/u/narayanbehera/
 
 📈 GitHub Stats
 
@@ -55,6 +53,6 @@ I am actively solving problems on LeetCode to sharpen my DSA skills.
 
 📧 Email: beheranarayancs222330@gmail.com
 
-🔗 LinkedIn: Narayan Behera
+🔗 LinkedIn: Narayan Behera : https://www.linkedin.com/in/narayan-behera-a8bbab262/
 
 ⭐ Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful!
